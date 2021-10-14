@@ -1,1 +1,2 @@
 text for new feature file
+Second string in new feature file
