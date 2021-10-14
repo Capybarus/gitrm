@@ -1,1 +1,2 @@
-"text fot main branch" 
+"text for main branch"
+ 
